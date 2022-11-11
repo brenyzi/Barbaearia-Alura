@@ -1,7 +1,15 @@
+h1{
+    text-align: ;
+    color:azure crimson;
+}
 body {
-    background: #CCCCCC
+    background: #3f3e3e
 }
 
 p {
     text-align: center;
+}
+
+em strong{
+    color:aliceblue;
 }
